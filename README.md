@@ -1,5 +1,5 @@
 # VR Extended Analysis
-A repository based in aind-vr-foraging-analysis with deeper analysis 
+A repository based in [aind-vr-foraging-analysis](https://github.com/AllenNeuralDynamics/Aind.Behavior.VrForaging) with deeper analysis 
 
 # Save environment settings
 pip freeze > requirements.txt
