@@ -26,6 +26,7 @@ dependencies = [
   "scikit-learn",
   "statsmodels",
   "opencv-python"
+  "pytz"
 ]
 
 [project.optional-dependencies]
